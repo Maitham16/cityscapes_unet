@@ -1,0 +1,9 @@
+gtFine_trainvaltest/
+leftImg8bit_trainvaltest/
+cityScapes_model/
+models/
+saved_model_simplified/
+tf-env/
+tf-gpu-env/
+cityScapes_model_quant.tflite
+cityScapes_model_quant.keras
