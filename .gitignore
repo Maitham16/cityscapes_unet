@@ -7,3 +7,5 @@ tf-env/
 tf-gpu-env/
 cityScapes_model_quant.tflite
 cityScapes_model_quant.keras
+cityScapes.keras
+best_model.keras
